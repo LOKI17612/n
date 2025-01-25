@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f3f4f7;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, p {
+    color: #333;
+}
+
+#login-section {
+    padding: 50px;
+    background-color: #f8d7da;
+    border-radius: 10px;
+    width: 50%;
+    margin: 100px auto;
+}
+
+input[type="password"], input[type="text"] {
+    padding: 10px;
+    width: 80%;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #6c757d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #5a6268;
+}
+
+#quiz-section {
+    padding: 50px;
+    background-color: #d4edda;
+    border-radius: 10px;
+    width: 50%;
+    margin: 50px auto;
+}
+
+#birthday-wish {
+    padding: 50px;
+    background-color: #fff3cd;
+    border-radius: 10px;
+    width: 50%;
+    margin: 50px auto;
+    color: #856404;
+}
